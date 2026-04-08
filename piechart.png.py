@@ -13,6 +13,6 @@ plot.pie(numlist, labels=namelist, autopct='%.2f%%',
 
 plot.axis('equal')
 
-plot.text(-1.5, 1.2, 'AS', fontsize=20, fontweight='bold')
+plot.text(-1.5, 1.2, 'AB', fontsize=20, fontweight='bold')
 
 plot.savefig('piechart.png')
